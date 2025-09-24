@@ -64,8 +64,12 @@ python main.py
 
 7. Введите ваш адрес или местоположение когда программа запросит.
 
+<img width="699" height="102" alt="Снимок экрана 2025-09-24 161912" src="https://github.com/user-attachments/assets/79115ada-49b2-43c3-899a-4028a0d3ccdf" />
+
+
 8. Откройте сгенерированный файл index.html в браузере для просмотра карты.
 
+<img width="517" height="601" alt="Снимок экрана 2025-09-24 161950" src="https://github.com/user-attachments/assets/93cad444-a9dc-43bb-81e5-2c578a7e9bff" />
 
 
 ## Особенности реализации
@@ -85,6 +89,3 @@ python main.py
 
 ### Цель проекта
 Код написан в образовательных целях на онлайн-курсе для веб-разработчиков [dvmn.org](https://dvmn.org/).
-
-
-
